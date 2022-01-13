@@ -1,4 +1,4 @@
-#Tidytuesday week 2 2022
+#Amanda Fanelli for Tidytuesday week 2 2022
 
 #Reading the data ----
 colony <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2022/2022-01-11/colony.csv')
